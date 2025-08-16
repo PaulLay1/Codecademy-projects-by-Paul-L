@@ -1,3 +1,5 @@
 # Codecademy-projects-by-Paul-L
 
-This is my first independent project, involving the use of HTML and CSS. Courtesty of Codecademy.
+This is my compiled files of webpages and websites that I have practised, as means of demonstrating my skills as a junior developer.
+
+Courtesty of Codecademy.
