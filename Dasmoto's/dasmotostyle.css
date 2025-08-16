@@ -1,0 +1,28 @@
+/*Keep Comments written like this*/
+
+
+h1 {
+    font-size: 400%;
+    text-align: center;
+    color:blanchedalmond;
+    font-family: Montserrat;
+}
+
+h2 {
+    color: white;
+    font-family: Montserrat;
+}
+
+h3 {
+    font-family: Montserrat;
+    text-align: center;
+}
+
+.lime {
+    background-color: lime;
+}
+
+.top {
+    background-image: url(pattern.jpeg);
+    width: 100%
+}
